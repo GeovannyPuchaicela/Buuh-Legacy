@@ -18,7 +18,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
         {/* Logo en Negro */}
         <div className={`text-2xl font-bold font-oswald tracking-widest uppercase transition-colors ${isScrolled ? 'text-black' : 'text-white mix-blend-difference'}`}>
-          Buuh<span className="font-light">Legacy</span>
+          Buuh<span className="font-light"> Legacy</span>
         </div>
 
         {/* Desktop Menu */}
