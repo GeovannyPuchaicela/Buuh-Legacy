@@ -83,7 +83,7 @@ export default function Home() {
             <div className="border-l-2 border-black pl-6 py-2">
                <p className="font-oswald text-xl uppercase mb-1">Contacto Directo</p>
                <div className="flex items-center gap-2 text-gray-600">
-                  <Phone size={18} /> <span>+593 99 123 4567</span>
+                  <Phone size={18} /> <span>+593 96 375 1607</span>
                </div>
             </div>
           </div>

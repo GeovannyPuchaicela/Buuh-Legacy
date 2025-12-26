@@ -4,15 +4,15 @@ import { motion, AnimatePresence } from 'framer-motion';
 import Image from 'next/image';
 
 const images = [
-  { id: 1, src: "/images/tattoo1.jpg", cat: "Realismo" },
+  { id: 1, src: "/images/tattoo1.jpg", cat: "Tradicional" },
   { id: 2, src: "/images/tattoo2.jpg", cat: "Fine Line" },
   { id: 3, src: "/images/tattoo3.jpg", cat: "Tradicional" },
   { id: 4, src: "/images/tattoo4.jpg", cat: "Realismo" },
   { id: 5, src: "/images/tattoo5.jpg", cat: "Fine Line" },
   { id: 6, src: "/images/tattoo6.jpg", cat: "Realismo" },
   { id: 7, src: "/images/tattoo7.jpg", cat: "Fine Line" },
-  { id: 8, src: "/images/tattoo8.jpg", cat: "Realismo" },
-  { id: 9, src: "/images/tattoo9.jpg", cat: "Fine Line" },
+  { id: 8, src: "/images/tattoo8.jpg", cat: "Tradicional" },
+  { id: 9, src: "/images/tattoo9.jpg", cat: "Realismo" },
 ];
 
 const categories = ["Todos", "Realismo", "Fine Line", "Tradicional"];
